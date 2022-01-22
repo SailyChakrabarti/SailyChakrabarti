@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SailyChakrabarti
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Web Dev/Web Design
-- 💞️ I’m looking to collaborate on Beginner Web Design Projects
-- 📫 How to reach me GitHub
+- 👋 @SailyChakrabarti
+- 👀 Web Design & Front End Development
+- 🌱 HTML5, CSS3, JAVASCRIPT, BOOTSTRAP5, JQUERY, REACT
+- 💞️ collaborate on Front End Projects
+- 📫 email: sailychakrabarti@gmail.com
 
 <!---
 SailyChakrabarti/SailyChakrabarti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
